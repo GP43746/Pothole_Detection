@@ -1,0 +1,15 @@
+# Core ML / CV
+ultralytics>=8.0.0
+torch>=2.0
+torchvision>=0.15
+
+# Image & Video Processing
+opencv-python>=4.8
+Pillow>=10.0
+
+# GUI Dashboard
+customtkinter>=5.2
+tkintermapview>=1.29
+
+# Utilities
+numpy>=1.23
